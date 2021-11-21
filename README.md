@@ -1,5 +1,5 @@
 # Arduino-Mobil-Arama-Robotu
- Arduino ve Esp ile oluşturulmuş mobil arama robotu projesi
+ Arduino ve Esp ile oluşturulmuş mobil arama robotu
 
 ## Proje Adı: 
  Mobil Arama Robotu
